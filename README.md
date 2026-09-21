@@ -1,4 +1,10 @@
-## Hi there 👋
+![](https://capsule-render.vercel.app/api?type=speech&height=300&color=gradient&section=header&reversal=false&text=%EC%83%9D%EA%B0%81%ED%95%98%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90+%EA%B9%80%ED%9D%AC%EC%A7%84%EC%9E%85%EB%8B%88%EB%8B%A4.&textBg=false&fontSize=60&fontAlign=50&fontAlignY=48&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60)
+
+## Heejin KIM 👋
+---
+# About Me
+---
+> **현재 현대 AI Insight AI서비스 설계 교육 과정을 수료 중 입니다.**
 
 <!--
 **gmlwls02190/gmlwls02190** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
