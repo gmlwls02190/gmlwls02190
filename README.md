@@ -2,16 +2,24 @@
 
 ## Heejin KIM 👋
 
-# About Me
+### About Me
 
-> **현재 현대 AI Insight AI서비스 설계 교육 과정을 수료 중 입니다.**
-## ✨Hobby
-- 독서
-- 게임
-- 운동
-- 음악 감상
+현대 AI Insight의 **AI 서비스 설계 과정**을 수료하며, AI 서비스 기획과 개발에 필요한 역량을 차근차근 쌓고 있습니다.
 
-## 🛠️ Tech Stacks
+- Python을 학습하며 프로그래밍 기초와 데이터 처리 역량을 키우고 있습니다.
+- MySQL에서 SQL 쿼리문을 배우며 데이터베이스 활용 능력을 넓히고 있습니다.
+
+### 🛠️ Currently Learning
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### ✨ Hobbies
+
+- 📚 독서
+- 🎮 게임
+- 🏃 운동
+- 🎵 음악 감상
 
 
 
