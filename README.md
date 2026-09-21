@@ -5,6 +5,15 @@
 # About Me
 
 > **현재 현대 AI Insight AI서비스 설계 교육 과정을 수료 중 입니다.**
+## ✨Hobby
+- 독서
+- 게임
+- 운동
+- 음악 감상
+
+## 🛠️ Tech Stacks
+
+
 
 <!--
 **gmlwls02190/gmlwls02190** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
